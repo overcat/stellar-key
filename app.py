@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, response
+from flask import Flask, jsonify, request
 from stellar_sdk import Keypair
 
 app = Flask(__name__)
