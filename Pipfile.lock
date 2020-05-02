@@ -103,10 +103,10 @@
         },
         "click": {
             "hashes": [
-                "sha256:8a18b4ea89d8820c5d0c7da8a64b2c324b4dabb695804dbfea19b9be9d88c0cc",
-                "sha256:e345d143d80bf5ee7534056164e5e112ea5e22716bbb1ce727941f4c8b471b9a"
+                "sha256:d2b5255c7c6349bc1bd1e59e08cd12acbbd63ce649f2588755783aa94dfb6b1a",
+                "sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc"
             ],
-            "version": "==7.1.1"
+            "version": "==7.1.2"
         },
         "crc16": {
             "hashes": [
@@ -274,11 +274,11 @@
         },
         "stellar-sdk": {
             "hashes": [
-                "sha256:3b09d057c50d9b84e8b0f25841871832dee7485dda5f15ab0b167d08c09ea5fd",
-                "sha256:b769238ccc0c572a0b100fe3ecbcb329f6615cbaa08a871bd296056381dc0bb6"
+                "sha256:8fa1265fcce8bf7282e8247e30c74988f2f3da8bcd457f4dbfecdda53f204572",
+                "sha256:c27f75462a07012ed70203a222abf01df028be37e12acd2c5c08bdfb30ae1312"
             ],
             "index": "pypi",
-            "version": "==2.3.1"
+            "version": "==2.3.2"
         },
         "toml": {
             "hashes": [
@@ -289,10 +289,10 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:2f3db8b19923a873b3e5256dc9c2dedfa883e33d87c690d9c7913e1f40673cdc",
-                "sha256:87716c2d2a7121198ebcb7ce7cccf6ce5e9ba539041cfbaeecfb641dc0bf6acc"
+                "sha256:3018294ebefce6572a474f0604c2021e33b3fd8006ecd11d62107a5d2a963527",
+                "sha256:88206b0eb87e6d677d424843ac5209e3fb9d0190d0ee169599165ec25e9d9115"
             ],
-            "version": "==1.25.8"
+            "version": "==1.25.9"
         },
         "werkzeug": {
             "hashes": [
