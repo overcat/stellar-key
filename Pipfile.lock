@@ -56,10 +56,10 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:1d987a998c75633c40847cc966fcf5904906c920a7f17ef374f5aa4282abd304",
-                "sha256:51fcb31174be6e6664c5f69e3e1691a2d72a1a12e90f872cbdb1567eb47b6519"
+                "sha256:5ad7e9a056d25ffa5082862e36f119f7f7cec6457fa07ee2f8c339814b80c9b1",
+                "sha256:9cd41137dc19af6a5e03b630eefe7d1f458d964d406342dd3edf625839b944cc"
             ],
-            "version": "==2020.4.5.1"
+            "version": "==2020.4.5.2"
         },
         "cffi": {
             "hashes": [
@@ -274,11 +274,11 @@
         },
         "stellar-sdk": {
             "hashes": [
-                "sha256:15fce2cf81d85c8841e285196084d852d424daa5f1ee8403e5ee16331d89c2fb",
-                "sha256:90dee1d80c44b35b6e9bbd630369e4678b6a00fe0e507425cc1dd393c107dab3"
+                "sha256:2ba27b3131ffa5a4c0f87080fb7ee6a41244dc16e80fdd78872c4dbd63c40c6e",
+                "sha256:f72505a7750e8f11595d96bfc267ec9f82bc76bac1e780ca13659c91d899026a"
             ],
             "index": "pypi",
-            "version": "==2.5.2"
+            "version": "==2.5.3"
         },
         "toml": {
             "hashes": [
