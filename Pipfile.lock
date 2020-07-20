@@ -133,10 +133,10 @@
         },
         "idna": {
             "hashes": [
-                "sha256:7588d1c14ae4c77d74036e8c22ff447b26d0fde8f007354fd48a7814db15b7cb",
-                "sha256:a068a21ceac8a4d63dbfd964670474107f541babbd2250d61922f029858365fa"
+                "sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6",
+                "sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"
             ],
-            "version": "==2.9"
+            "version": "==2.10"
         },
         "itsdangerous": {
             "hashes": [
@@ -274,11 +274,11 @@
         },
         "stellar-sdk": {
             "hashes": [
-                "sha256:2e371ed050e91f627d0c1a194ed9cffe9d04139f032631a27953d4c279db7ff9",
-                "sha256:62530efb2f66c2324b0e9fde27fab50265994933a486639b4ad02cc619d8e126"
+                "sha256:277919e4e1a1929d5ca7b6a509ad0b7469cc76d3662fc39a3ab7eeced225be7a",
+                "sha256:9f605763e313ca2908a4edc71b679d524a779ce269afee630ef0d12c006a5d21"
             ],
             "index": "pypi",
-            "version": "==2.6.1"
+            "version": "==2.6.2"
         },
         "toml": {
             "hashes": [
