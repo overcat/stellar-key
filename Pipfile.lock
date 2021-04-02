@@ -343,11 +343,11 @@
         },
         "stellar-sdk": {
             "hashes": [
-                "sha256:43eb89e5df5c7f782f5783dc40a085b5e24637a3a17fa59bae30c930a1523398",
-                "sha256:cf6015437f9eb9583cdcefec33ef172d1f60c456e49c9d5ccacf176e90701296"
+                "sha256:a85afb336e891b8e9a8c78fc11fe5bcfa3e6074653b2440a65d506a2a6b3f58c",
+                "sha256:baf077edbd2c89b811e60de2a57507e1c4b33e19be9b593337a3d034ca2d8dae"
             ],
             "index": "pypi",
-            "version": "==3.1.4"
+            "version": "==3.2.0"
         },
         "toml": {
             "hashes": [
@@ -367,10 +367,10 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:1b465e494e3e0d8939b50680403e3aedaa2bc434b7d5af64dfd3c958d7f5ae80",
-                "sha256:de3eedaad74a2683334e282005cd8d7f22f4d55fa690a2a1020a416cb0a47e73"
+                "sha256:2f4da4594db7e1e110a944bb1b551fdf4e6c136ad42e4234131391e21eb5b0df",
+                "sha256:e7b021f7241115872f92f43c6508082facffbd1c048e3c6e2bb9c2a157e28937"
             ],
-            "version": "==1.26.3"
+            "version": "==1.26.4"
         },
         "werkzeug": {
             "hashes": [
