@@ -343,11 +343,11 @@
         },
         "stellar-sdk": {
             "hashes": [
-                "sha256:a84b0e708bf6398bd9e37a486f38c55ad6da9906ad3559e630a255ac8709cd28",
-                "sha256:ad1d52d9c48c6fe3963731631719a4f95f4bcfad2488c017f883205764183a75"
+                "sha256:509546b1b0165397b59367a803824da6b74877ee8e22b2cd8a1c90aedaf2d873",
+                "sha256:f9a83588c0009c937a2aca5e39933749feeb8dd6fd78e43b2fcfa5e275ef72e3"
             ],
             "index": "pypi",
-            "version": "==3.2.1"
+            "version": "==3.3.0"
         },
         "toml": {
             "hashes": [
