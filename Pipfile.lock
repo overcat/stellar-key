@@ -554,11 +554,11 @@
         },
         "stellar-sdk": {
             "hashes": [
-                "sha256:6373636305fb4904ee7ab7c31908aa5d5c9eb6d30433d2c62d5b5b4fa59c0f9f",
-                "sha256:deefe2a898ae47f9e68c89c2902fd746a210e21f029a4e9ec090417f909b8f2e"
+                "sha256:62e7e76914eff9c63dad3ccd3d103e788938eb7efad3d1a549b4e60c862e61ed",
+                "sha256:b9f79c640374143064dd17a958fc33d3be4f95454bcb517b0b56c90a859b3adf"
             ],
             "index": "pypi",
-            "version": "==6.0.1"
+            "version": "==6.1.0"
         },
         "toml": {
             "hashes": [
@@ -589,7 +589,7 @@
                 "sha256:4987c65554f7a2dbf30c18fd48778ef124af6fab771a377103da0585e2336ece",
                 "sha256:c4fdf4019605b6e5423637e01bc9fe4daef873709a7973e195ceba0a62bbc844"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4.0'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
             "version": "==1.26.7"
         },
         "werkzeug": {
