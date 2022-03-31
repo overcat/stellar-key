@@ -15,8 +15,8 @@ attrs==21.4.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2,
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12; python_version >= '3.5'
-click==8.1.0; python_version >= '3.7'
-flask==2.1.0
+click==8.1.2; python_version >= '3.7'
+flask==2.1.1
 frozenlist==1.3.0; python_version >= '3.7'
 gunicorn==20.1.0
 idna==3.3; python_version >= '3'
@@ -29,7 +29,7 @@ multidict==6.0.2; python_version >= '3.7'
 pycparser==2.21; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
 pynacl==1.5.0; python_version >= '3.6'
 requests==2.27.1; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'
-setuptools==61.2.0; python_version >= '3.7'
+setuptools==61.3.0; python_version >= '3.7'
 six==1.16.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
 stellar-base-sseclient==0.0.21
 stellar-sdk==7.0.1
